@@ -5,9 +5,9 @@ An SQL Injection Scanner
 
 System Requirements
 
-1. Operating System: Windows or Kali Linux
-2. Python Version: Python 3.6+
-3. Python Libraries: Tkinter, OS, re
+- Operating System: Windows or Kali Linux
+- Python Version: Python 3.6+
+- Python Libraries: Tkinter, OS, re
 
 Installation
 

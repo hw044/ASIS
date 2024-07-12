@@ -33,3 +33,5 @@ Results
 1.	The results of the scan will be displayed in the large grey box on the main interface.
 2.	If vulnerabilities are detected, they will be listed with the file names and specific line numbers where issues were found.
 3.	If no vulnerabilities are found, a corresponding message will be displayed.
+
+![Screenshot 2024-06-20 223632](https://github.com/user-attachments/assets/bd8ee34d-8727-4f3b-9b4f-b13af45e512a)
